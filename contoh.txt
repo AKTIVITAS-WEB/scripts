@@ -1,0 +1,8 @@
+-------------Membuat link file Javascript digithub---------------
+https://cdn.jsdelivr.net/gh/username/reporsitory/namafile
+contoh : https://cdn.jsdelivr.net/gh/AKTIVITAS-WEB/awct/script.js
+
+Untuk meminify js, tinggal tambah (.min)
+Contoh : https://cdn.jsdelivr.net/gh/AKTIVITAS-WEB/awct/script.min.js
+
+
