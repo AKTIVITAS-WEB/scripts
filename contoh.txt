@@ -4,5 +4,5 @@ contoh : https://cdn.jsdelivr.net/gh/AKTIVITAS-WEB/awct/script.js
 
 Untuk meminify js, tinggal tambah (.min)
 Contoh : https://cdn.jsdelivr.net/gh/AKTIVITAS-WEB/awct/script.min.js
-
+Untuk mengambil hasil minify dan dimasukkan ke hosting situs : hapus source map nya
 
